@@ -21,3 +21,4 @@ dp = Dispatcher(bot, storage=storage)
 
 
 DEPARTMENT_NAME = 'МГТУ им. Н.Э. Баумана'
+BOT_NAME = 'Зигмунд'
